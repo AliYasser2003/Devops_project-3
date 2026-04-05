@@ -27,8 +27,12 @@ Features
 
 Key Learnings
 *****************
-Kubernetes networking (Service vs Ingress)
-Multi-container Pods (sidecar pattern)
-Config vs Secret separation
-Persistent storage in Kubernetes
-Debugging real DevOps issues
+1) Kubernetes networking (Service vs Ingress)
+2) Multi-container Pods (sidecar pattern)
+3) Config vs Secret separation
+4) Persistent storage in Kubernetes
+5) Debugging real DevOps issues
+
+UI Preview
+*************
+![App UI](Notes-App.png)
