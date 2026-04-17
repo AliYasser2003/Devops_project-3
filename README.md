@@ -17,7 +17,7 @@ user ----> Ingress ----> Service ----> Pod (Nginx & Node.js) ----> Postgresql --
 5) Nginx (Reverse Proxy)
 6) ConfigMap & Secret (Configuration Management)
 
-#### Features
+### Features
 ****************
 1) Multi-container Pod (Nginx + App)
 2) Kubernetes Services & Networking
@@ -25,7 +25,7 @@ user ----> Ingress ----> Service ----> Pod (Nginx & Node.js) ----> Postgresql --
 4) Persistent storage (PV + PVC)
 5) Secure credentials using Secrets
 
-##### Key Learnings
+#### Key Learnings
 **********************
 1) Kubernetes networking (Service vs Ingress)
 2) Multi-container Pods (sidecar pattern)
@@ -36,3 +36,7 @@ user ----> Ingress ----> Service ----> Pod (Nginx & Node.js) ----> Postgresql --
 UI Preview
 *************
 ![App UI](Notes-App.png)
+
+
+## Author
+Ali Yasser
